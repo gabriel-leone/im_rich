@@ -1,3 +1,3 @@
-# vai_rodar
+# Meu primeiro app desenvolvido em Flutter.
 
-My first ever Flutter app!
+Esse app foi feito com base no curso The Complete Flutter Development Bootcamp with Dart da Dr. Angela Yu.
